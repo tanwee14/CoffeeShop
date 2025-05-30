@@ -25,6 +25,16 @@ A modern, responsive coffee shop website built using **HTML**, **CSS**, and **Ja
 - **[ScrollReveal](https://scrollrevealjs.org/)** – animations on scroll  
 - **Google Fonts** – *Poppins*, *Playfair Display*
 
+## 📁 File Structure
+
+```
+
+/project-folder
+│
+├── coffee.html         # The main HTML file
+├── coffee.css          # CSS styling for the app
+└── coffee.js 
+
 
 ## 🚀 How to Run
 
